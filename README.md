@@ -35,10 +35,11 @@ satellite observations into usable information.
 
 In this project, was using the ATL13 mission. However, on the stage of identifying the mission name or satellite product, need to specify the mission for acquisition.
 
-<img width="1032" height="676" alt="icesat-2_data_products" src="https://github.com/user-attachments/assets/d42863f2-59c7-4ae9-b370-bbac9663ce1a" />
+<img width="1032" height="676" alt="icesat-2_data_products" src="https://github.com/user-attachments/assets/92998a2f-e139-487b-9a9c-28dea50657e2" />
 
 
 📊 Data Source:
 
 Data provided by the National Snow and Ice Data Center (NSIDC).
+
 Dataset Reference: [ICESat-2 L3A Inland Surface Water Data (ATL13)](https://nsidc.org/data/atl13/versions/7#anchor-overview)
