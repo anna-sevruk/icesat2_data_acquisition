@@ -1,6 +1,8 @@
 ICESat-2 Data Acquisition
 
-A specialised Python toolkit for the acquisition of ICESat-2 (Inland Surface Water Data) products. This repository provides automated workflows to downlouding the ICESat-2 data in h5 format.  
+A specialised Python toolkit for the acquisition of ICESat-2 (Inland Surface Water Data) products. This repository provides automated workflows to downlouding the ICESat-2 data in h5 format.
+
+NOTE: With future extension!!!
 
 🛰️ Project Overview:
 
